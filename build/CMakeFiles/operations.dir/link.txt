@@ -1,0 +1,1 @@
+/usr/bin/gcc CMakeFiles/operations.dir/operations.c.o -o operations 

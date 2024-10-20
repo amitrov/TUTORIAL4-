@@ -1,0 +1,3 @@
+/home/abstract/TUTORIAL4/build/CMakeFiles/operations.dir
+/home/abstract/TUTORIAL4/build/CMakeFiles/edit_cache.dir
+/home/abstract/TUTORIAL4/build/CMakeFiles/rebuild_cache.dir
